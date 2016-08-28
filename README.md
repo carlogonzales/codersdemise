@@ -18,6 +18,27 @@ e.g.
 - 160113\_my\_new\_article.md
 - 180323\_my\_article\_s\_punctuation.md
 
+### Article Tags
+
+Each article can be tag with the following:
+
+- Fix
+- How-To
+
+_Note: In case these tags won't fit an article additional tags can be placed here_
+
+### Difficulty Rating
+
+The difficulty rating shows how nutcracking articles are. These are the following difficulty rating for each articles, ranging from 1 as the easiest to 7 as the hardest:
+
+1. *Typo*
+2. *Missing Semicolon*
+3. *Infinite Loop*
+4. *Deadlock*
+5. *20,000 Lines of Undocumented Codes*
+6. *git reset --hard origin/master*
+7. *sudo rm -rf /*
+
 ### Markdown
 
 1. Should follow the markdown specification *_0.\*_* on [Markdown Specification](http://spec.commonmark.org/)
