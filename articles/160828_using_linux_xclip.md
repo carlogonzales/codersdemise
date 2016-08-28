@@ -23,6 +23,12 @@ ls | xclip -selection clipboard
 ```bash
 xclip -o -selection c
 ```
+#### Outputting clipboard content to a file
+
+```bash
+xclip -o selection c > somefile
+```
+
 
 ### Aliasing xclip
 
