@@ -1,6 +1,6 @@
 # Setting JAVA_HOME Dynamically on Linux
 
-There are two flavor of JDK you can get from any Linux ditros, OpenJDK or from Oracle. These software can be installed manually, assigning the static path on JAVA_HOME. What if you installed it directly from `yum` or `apt`, how can you assign the correct Java directory for a managed installation?
+There are two flavor of JDK you can get from any Linux distros, OpenJDK or from Oracle. These software can be installed manually, assigning the static path on JAVA_HOME. What if you installed it directly from `yum` or `apt`, how can you assign the correct Java directory for a managed installation?
 
 _Note: This how-to assumes you're using `bash` as your shell. Feel free to apply it based on what shell you're using._
 
