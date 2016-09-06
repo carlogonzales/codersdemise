@@ -33,7 +33,7 @@ source ~/.bashrc
 printenv JAVA_HOME
 ```
 
-Your `JAVA_HOME` should conatin the directory of you JDK installation.
+Your `JAVA_HOME` should contain the directory of you JDK installation.
 
 ### System-wide Implementation 
 
