@@ -1,6 +1,6 @@
 # Fix Hadoop Sqoop Import Thrown Exception "ERROR manager.SqlManager: Error reading from database: java.sql.SQLException"
 
-When you're trying to import and got the kind of log message you see below, then the problem came from an non explecit declaration of driver. Although there are other reasons for this error to be thrown, like old driver, we'll specifically solve the non-explecit declaration of driver on Sqoop. 
+When you're trying to import and got the kind of log message you see below, then the problem came from an non explicit declaration of driver. Although there are other reasons for this error to be thrown, like old driver, we'll specifically solve the non-explicit declaration of driver on Sqoop. 
 
 > ERROR manager.SqlManager: Error reading from database: java.sql.SQLException: Streaming result set com.mysql.jdbc.RowDataDynamic@6eb58296 is still active. No statements may be issued when any streaming result sets are open and in use on a given connection. Ensure that you have called .close() on any active streaming result sets before attempting more queries.
 java.sql.SQLException: Streaming result set com.mysql.jdbc.RowDataDynamic@6eb58296 is still active. No statements may be issued when any streaming result sets are open and in use on a given connection. Ensure that you have called .close() on any active streaming result sets before attempting more queries.
