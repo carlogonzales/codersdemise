@@ -8,15 +8,16 @@ Each articles shoud have the follow these conventions
 
 ### Filename
 
-1. Should have [ARTICLE DATE]\_[ARTICLE TITLE] format wherein the Article Date and Title is separated by an underscore (\_)
+1. Should have [ARTICLE DATE]\_[ARTICLE TITLE].[DIFFICULTY RATING].[PERIOD SEPARATED TAGS].md format wherein the Article Date and Title is separated by an underscore (\_)
 2. Should end with _.md_
 3. Should have an Article Date with a *_yyMMdd_* format
 4. Should have a lower case Article Title with white spaces and punctations coverted to an underscore (\_)
+5. Should have multiple tags separated by period (.)
 
 e.g.
 
-- 160113\_my\_new\_article.md
-- 180323\_my\_article\_s\_punctuation.md
+- 160113\_my\_new\_article.4.linux.ssh.how-to.md
+- 180323\_my\_article\_s\_punctuation.4.windows.java.md
 
 ### Article Tags
 
