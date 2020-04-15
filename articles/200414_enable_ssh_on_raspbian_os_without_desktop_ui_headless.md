@@ -10,12 +10,12 @@ Put your storage back in the board and start your Raspberry Pi.
 Connect to your Raspberry Pi with SSH
 `ssh [USERNAME]@[YOUR PI IP OR DOMAIN HERE]`
 
-*Note: The default username and password for Raspbian is `pi` for username and `raspberry` as password.*
+*Note: The default username and password for Raspbian is `pi` for username and `raspberry` as password, in case you didn't add a new user or you didn't change it.*
 
 ### REFERENCES
 [Raspberry Pi Documentation: SSH Remote Access](https://www.raspberrypi.org/documentation/remote-access/ssh/)
 [Raspberry Pi Documentation: Linux User Management](https://www.raspberrypi.org/documentation/linux/usage/users.md)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4NDk5ODg4XX0=
+eyJoaXN0b3J5IjpbLTUwNDU0NTg5Miw4MTg0OTk4ODhdfQ==
 -->
