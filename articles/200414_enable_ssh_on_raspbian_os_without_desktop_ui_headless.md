@@ -13,9 +13,12 @@ Connect to your Raspberry Pi with SSH
 *Note: The default username and password for Raspbian is `pi` for username and `raspberry` as password, in case you didn't add a new user or you didn't change it.*
 
 ### REFERENCES
-[Raspberry Pi Documentation: SSH Remote Access](https://www.raspberrypi.org/documentation/remote-access/ssh/)
-[Raspberry Pi Documentation: Linux User Management](https://www.raspberrypi.org/documentation/linux/usage/users.md)
+
+ 1. [Raspberry Pi Documentation: SSH Remote Access](https://www.raspberrypi.org/documentation/remote-access/ssh/)
+ 2. [Raspberry Pi Documentation: Linux User Management](https://www.raspberrypi.org/documentation/linux/usage/users.md)
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNDU0NTg5Miw4MTg0OTk4ODhdfQ==
+eyJoaXN0b3J5IjpbMjM4NzU1ODAxLC01MDQ1NDU4OTIsODE4ND
+k5ODg4XX0=
 -->
