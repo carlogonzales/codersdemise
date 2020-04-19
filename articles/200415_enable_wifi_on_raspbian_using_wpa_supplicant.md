@@ -30,7 +30,8 @@ After setting the WPA Supplicant configurations. Restart your network manager wi
 
     sudo service networking restart
 
-*Note: If restarting your network manager doesn't connect you to wifi. Restart your Ra*
+*Note: If restarting your network manager doesn't connect you to wifi. Restart your board.*
+
 ### References
 
 1. [WPA Supplicant Configuration Documentation](http://w1.fi/cgit/hostap/plain/wpa_supplicant/wpa_supplicant.conf)
@@ -38,6 +39,6 @@ After setting the WPA Supplicant configurations. Restart your network manager wi
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDEzMjA2ODMsLTE1NTQ5MDkxODMsLT
+eyJoaXN0b3J5IjpbLTE2MjYwNDY5NjIsLTE1NTQ5MDkxODMsLT
 E4ODY1OTYzMjhdfQ==
 -->
