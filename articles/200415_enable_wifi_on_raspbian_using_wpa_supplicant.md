@@ -23,7 +23,7 @@ Then copy and paste the configurations below and edit the `SSID` and `WIFI PASSW
         auth_alg=OPEN
     }
 
-*Note: Double check your own Wifi settings and change the network configuration as you see fit. See WPA Supplicant Config Documentation for details.*
+*Note: Double check your own Wifi settings and change the network configuration as you see fit. See WPA Supplicant Config Documentation for details. Also use `iwlist [NET INTERFACE] scan` to get more infor on your Wifi settings*
 
 ### References
 
@@ -32,5 +32,6 @@ Then copy and paste the configurations below and edit the `SSID` and `WIFI PASSW
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODY1OTYzMjhdfQ==
+eyJoaXN0b3J5IjpbLTE1NTQ5MDkxODMsLTE4ODY1OTYzMjhdfQ
+==
 -->
