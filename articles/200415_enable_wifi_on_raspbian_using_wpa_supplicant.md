@@ -25,6 +25,10 @@ Then copy and paste the configurations below and edit the `SSID` and `WIFI PASSW
 
 *Note: Double check your own Wifi settings and change the network configuration as you see fit. See WPA Supplicant Config Documentation for details. Also use `iwlist [NET INTERFACE] scan` to get more infor on your Wifi settings*
 
+## Step 3
+After setting the WPA Supplicant configurations. Restart your network manager with:
+
+    
 ### References
 
 1. [WPA Supplicant Configuration Documentation](http://w1.fi/cgit/hostap/plain/wpa_supplicant/wpa_supplicant.conf)
@@ -32,6 +36,6 @@ Then copy and paste the configurations below and edit the `SSID` and `WIFI PASSW
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTQ5MDkxODMsLTE4ODY1OTYzMjhdfQ
-==
+eyJoaXN0b3J5IjpbLTU5Njk5ODgzOCwtMTU1NDkwOTE4MywtMT
+g4NjU5NjMyOF19
 -->
