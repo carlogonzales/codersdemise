@@ -24,7 +24,7 @@ Then copy and paste the configurations below and edit the `SSID` and `WIFI PASSW
     }
 
 *Note: Double check your own Wifi settings and change the network configuration as you see fit. See WPA Supplicant Config Documentation for details. Also use `iwlist [NET INTERFACE] scan` to get more infor on your Wifi settings*
-*Note on Hidden SSID: If you're using hidden SSID for your Wifi hotspot, make sure to use `scan_ssid=1` This ensure a *
+*Note on Hidden SSID: If you're using hidden SSID for your Wifi hotspot, make sure to use `scan_ssid=1` This uses probe request specific to your hidden SSID, and has a high latency.*
 
 ## Step 3
 After setting the WPA Supplicant configurations. Restart your network manager with:
@@ -40,6 +40,6 @@ After setting the WPA Supplicant configurations. Restart your network manager wi
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU2OTE2MjYwLC0xNjI2MDQ2OTYyLC0xNT
-U0OTA5MTgzLC0xODg2NTk2MzI4XX0=
+eyJoaXN0b3J5IjpbMTYzMjMxNTIyNywtMTYyNjA0Njk2MiwtMT
+U1NDkwOTE4MywtMTg4NjU5NjMyOF19
 -->
