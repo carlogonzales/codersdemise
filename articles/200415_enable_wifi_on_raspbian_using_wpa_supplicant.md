@@ -28,7 +28,9 @@ Then copy and paste the configurations below and edit the `SSID` and `WIFI PASSW
 ## Step 3
 After setting the WPA Supplicant configurations. Restart your network manager with:
 
-    
+    sudo service networking restart
+
+*Note: If restarting your network manager doesn't connect you to wifi. Restart your Ra*
 ### References
 
 1. [WPA Supplicant Configuration Documentation](http://w1.fi/cgit/hostap/plain/wpa_supplicant/wpa_supplicant.conf)
@@ -36,6 +38,6 @@ After setting the WPA Supplicant configurations. Restart your network manager wi
 ---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5Njk5ODgzOCwtMTU1NDkwOTE4MywtMT
-g4NjU5NjMyOF19
+eyJoaXN0b3J5IjpbLTEzMDEzMjA2ODMsLTE1NTQ5MDkxODMsLT
+E4ODY1OTYzMjhdfQ==
 -->
