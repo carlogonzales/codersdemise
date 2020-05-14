@@ -82,14 +82,14 @@ After setting up the zone info, we'll now proceed at configuring each zone. Firs
 Next, create the reverse lookup record, `/etc/bind/db.1.168.192`
 
     $TTL 604800
-    @ IN SOA ns1.cerberos.net. root.cerberos.net. (
+    @ IN SOA ns1.sample.net. root.sample.net. (
               5     ; Serial
         6048000     ; Refresh
           86400     ; Retry
         2419200     ; Expire
          604800 )   ; Negative Cache TTL
     ;
-    @  IN NS ns1.cerberos.net.
+    @  IN NS ns1.sample.net.
     ; PTR Records
     101    IN    PTR    ns1.sample.net.     ; 192.168.1.10
     200    IN    PTR    desktop.sample.net. ; 192.168.1.20
@@ -140,5 +140,5 @@ To check if your client can now query from your DNS, do the following:
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDI3MjAzNjNdfQ==
+eyJoaXN0b3J5IjpbNTM1NDY0Mzk4LC0xMjAyNzIwMzYzXX0=
 -->
