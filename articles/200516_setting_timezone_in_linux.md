@@ -1,7 +1,7 @@
 
 # Setting Timezone in Linux
 
-There are two ways of changing the system timezone in Linux, either you use `timedatectl` or changing the `/etc/localtime` symbolic link and pointing it to you chosen timezone at `/usr/zoneinfo/`
+There are two ways of changing the system timezone in Linux, either you use `timedatectl` or changing the `/etc/localtime` symbolic link and pointing it to your chosen timezone at `/usr/zoneinfo/`
 
 ## Solution: Using `timedatectl`
 
@@ -54,5 +54,5 @@ Verify if your system is now using your selected timezone:
  2. [`/etc/localtime` Manual](https://www.freedesktop.org/software/systemd/man/localtime.html)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NzQyMzk3MF19
+eyJoaXN0b3J5IjpbLTIxMTg2NTc1OCwtMjY3NDIzOTcwXX0=
 -->
